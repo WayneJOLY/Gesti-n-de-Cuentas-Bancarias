@@ -4,7 +4,9 @@
 Este programa permite gestionar cuentas bancarias de manera sencilla y eficiente .
 Esta Basado en Este Enunciado :
 =============
-En base al apunte “Clase Array en C#.pdf”, realice un programa que permita ingresar y registrar hasta 50 cuentas
+
+ ------------
+ En base al apunte “Clase Array en C#.pdf”, realice un programa que permita ingresar y registrar hasta 50 cuentas
 bancarias, con sus correspondientes datos CBU, Cliente y Saldo, según el diseño establecido en la clase Cuenta (usada
 en la clase 3).
 Finalizado el proceso de registro al ingresar el máximo de 50 cuentas bancarias, o bien, al ingreso CBU: -1 (que no se
@@ -16,8 +18,8 @@ Si, por el contrario, el valor ingresado de CBU a buscar no se correspondiera co
 ingresada, informarlo con el mensaje correspondiente.
 Nuevamente, el programa deberá finalizar una vez que que usuario ingrese el valor -1. Al finalizar se debe mostrar la
 información de todos los CBU con sus saldos correspondientes.
-=============
 
+ ------------
 
 
 ## Funcionalidades
@@ -31,3 +33,12 @@ información de todos los CBU con sus saldos correspondientes.
 - **Eliminar una cuenta** ❌: Permite eliminar una cuenta bancaria del registro.
 - **Mostrar información de las cuentas** 📊: Muestra un resumen de todas las cuentas registradas, incluyendo CBU, nombre del cliente y saldo.
 - **Salir** 🚪: Finaliza la ejecución del programa.
+
+
+
+## Contribuciones
+Las contribuciones son bienvenidas. Si deseas mejorar el programa, por favor sigue estos pasos:
+1 - Realiza un fork del repositorio.
+2 - Crea una nueva rama (git checkout -b feature/nueva-funcionalidad).
+3 - Realiza tus cambios y haz commit (git commit -m 'Añadir nueva funcionalidad').
+4 - Envía un pull request.
