@@ -1,6 +1,6 @@
 # 🏦 Programa de Gestión de Cuentas Bancarias
 
-##Descripción
+## Descripción
 Este programa permite gestionar cuentas bancarias de manera sencilla y eficiente .
 Esta Basado en Este Enunciado :
 =============
