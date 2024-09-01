@@ -34,7 +34,30 @@ información de todos los CBU con sus saldos correspondientes.
 - **Mostrar información de las cuentas** 📊: Muestra un resumen de todas las cuentas registradas, incluyendo CBU, nombre del cliente y saldo.
 - **Salir** 🚪: Finaliza la ejecución del programa.
 
+# Gestión de Cuentas:  COSAS QUE PODRIAS AGREGAR O MODIFICAR
+- Crear nuevas cuentas bancarias.
+- Eliminar cuentas existentes.
+- Modificar detalles de las cuentas.
 
+# Transacciones:
+- Realizar depósitos en las cuentas.
+- Efectuar retiros de las cuentas.
+- Transferir fondos entre cuentas.
+
+# Consultas:
+- Ver el saldo actual de las cuentas.
+- Consultar el historial de transacciones.
+
+# Estructura del Programa:
+
+## Clases Principales:
+- **Cuenta**: Representa una cuenta bancaria con propiedades como número de cuenta, saldo, y métodos para realizar operaciones.
+- **Transaccion**: Representa una transacción bancaria con detalles como tipo de transacción, monto y fecha.
+- **Banco**: Gestiona las cuentas y las transacciones, proporcionando métodos para crear cuentas, realizar transacciones y consultar información.
+
+## Interfaz de Usuario:
+- Menú principal con opciones para gestionar cuentas y realizar transacciones.
+- Validación de entradas del usuario para asegurar la integridad de los datos.
 
 ## Contribuciones
 Las contribuciones son bienvenidas. Si deseas mejorar el programa, por favor sigue estos pasos:
