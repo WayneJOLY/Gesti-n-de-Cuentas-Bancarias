@@ -21,6 +21,7 @@ información de todos los CBU con sus saldos correspondientes.
 
  ------------
 
+ ![](./Use Case Diagram Team Whiteboard in Blue Green Yellow Simple Colorful Style)
 
 ## Funcionalidades
 
